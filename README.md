@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshhansrajani&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshhansrajani" /> </p>
 
+<p align="right"> <img src="https://chools.in/wp-content/uploads/data-science-2-1.gif" alt="rakeshhansrajani" /> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/RakeshHansrajani/](https://github.com/RakeshHansrajani/)
 
 - 📫 How to reach me **hansrajani.rakesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-KkR-T6Vn8FIO4AgeOSNGk27ltDsnDYc/view](https://drive.google.com/file/d/1-KkR-T6Vn8FIO4AgeOSNGk27ltDsnDYc/view)
+- 📄 Know about my experiences 
+- <a href="https://drive.google.com/file/d/1-KkR-T6Vn8FIO4AgeOSNGk27ltDsnDYc/view" target="blank"><img align="center" alt="Resume" height="30" width="40" />Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
